@@ -1,0 +1,9 @@
+{
+  "name": "canvasResize-meteor-pkg",
+  "description": "canvasResize as meteor package. Used for image resizing",
+  "homepage": "https://github.com/antda/meteor-metro-pkg.git",
+  "author": "Anton Danielsson",
+  "version": "0.1.0",
+  "git": "nope",
+  "packages": {}
+}
